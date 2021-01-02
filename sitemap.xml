@@ -3,5 +3,6 @@
 <url> <loc>https://faryna.io/cookie-policy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://faryna.io/privacy-policy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://faryna.io/hello-world/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://faryna.io/hello-world/sample/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://faryna.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

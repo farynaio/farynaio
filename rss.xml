@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Adam Faryna blog]]></title><description><![CDATA[Personal blog of Adam Faryna about building things using modern tech, and private thoughts on various things]]></description><link>https://faryna.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 30 Dec 2020 14:15:40 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first, fake post! How exciting! But seriously, very soon I will start posting… I promise. Before that, I will leave some generic…]]></description><link>https://faryna.io/hello-world/</link><guid isPermaLink="false">https://faryna.io/hello-world/</guid><pubDate>Mon, 28 Dec 2020 20:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first, fake post! How exciting!&lt;/p&gt;
-&lt;p&gt;But seriously, very soon I will start posting… I promise.&lt;/p&gt;
-&lt;p&gt;Before that, I will leave some generic stuff here made by &lt;a href=&quot;https://gatsbyjs.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer noopener&quot;&gt;Gatsbyjs&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Adam Faryna blog]]></title><description><![CDATA[Personal blog of Adam Faryna about building things using modern tech, and private thoughts on various things]]></description><link>https://faryna.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Jan 2021 11:14:36 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first, fake post! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a great quote…]]></description><link>https://faryna.io/hello-world/</link><guid isPermaLink="false">https://faryna.io/hello-world/</guid><pubDate>Mon, 28 Dec 2020 20:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first, fake post! How exciting!&lt;/p&gt;
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer noopener&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
@@ -213,7 +211,93 @@ __double underscores__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;This paragraph has some &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt; in it.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This paragraph has some `code` in it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;https://placehold.it/200x50&quot; alt=&quot;Alt Text&quot; title=&quot;Image Title&quot;&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://placehold.it/200x50 &amp;quot;Image Title&amp;quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Privacy Policy]]></title><description><![CDATA[This privacy policy has been compiled to better serve those who are concerned with how their “Personally identifiable information” (PII) is…]]></description><link>https://faryna.io/privacy-policy/</link><guid isPermaLink="false">https://faryna.io/privacy-policy/</guid><pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This privacy policy has been compiled to better serve those who are concerned with how their “Personally identifiable information” (PII) is being used online. PI is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://placehold.it/200x50 &amp;quot;Image Title&amp;quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first, post! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a great quote from…]]></description><link>https://faryna.io/hello-world/sample/</link><guid isPermaLink="false">https://faryna.io/hello-world/sample/</guid><pubDate>Mon, 28 Dec 2020 20:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first, post! How exciting!&lt;/p&gt;
+&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
+&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer noopener&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
+eggs in brine, or packing each egg in damp, salted charcoal. In Asian
+supermarkets, these eggs are sometimes sold covered in a thick layer of salted
+charcoal paste. The eggs may also be sold with the salted paste removed,
+wrapped in plastic, and vacuum packed. From the salt curing process, the
+salted duck eggs have a briny aroma, a gelatin-like egg white and a
+firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chinese Salty Egg&quot;
+        title=&quot;Chinese Salty Egg&quot;
+        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
+        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
+/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
+/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
+/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
+/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
+/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;You can also write code blocks here!&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; saltyDuckEgg &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;chinese preserved food product&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;Number&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Title&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;Year&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;1&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Philosopher’s Stone&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2001&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;2&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Chamber of Secrets&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2002&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;3&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Prisoner of Azkaban&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2004&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer noopener&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a paragraph.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is a paragraph.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Header 1
+========
+
+Header 2
+--------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Cupcake powder bonbon. Tiramisu apple pie tootsie roll cheesecake cake. Topping ice cream bear claw candy bear claw danish apple pie soufflé lollipop. Pastry marshmallow sweet roll chocolate bar tootsie roll lemon drops gingerbread soufflé cheesecake. Danish lollipop candy cookie cake chocolate bar pie lollipop jelly. Brownie cotton candy sweet roll bonbon. Sesame snaps liquorice marzipan oat cake powder lollipop caramels. Lemon drops cake donut. Topping pastry apple pie macaroon cotton candy brownie jujubes cotton candy. Sweet roll sweet roll caramels jujubes apple pie cake powder. Cupcake lemon drops topping candy chocolate bar tiramisu. Liquorice tiramisu liquorice fruitcake sweet roll jelly donut tootsie roll. Wafer powder bonbon jelly jujubes cookie bonbon tootsie roll.&lt;/p&gt;
+&lt;p&gt;Powder chocolate cake donut fruitcake. Cotton candy toffee jelly beans cotton candy jelly lemon drops gummi bears. Muffin pastry lollipop macaroon sugar plum brownie cotton candy. Soufflé jelly-o oat cake. Candy canes sugar plum candy canes jelly powder. Cookie gummies carrot cake marzipan gummies marshmallow croissant fruitcake. Marzipan muffin muffin chupa chups candy brownie carrot cake oat cake. Soufflé oat cake cupcake jelly-o. Candy canes bear claw biscuit brownie donut toffee liquorice. Danish soufflé donut brownie oat cake bear claw muffin dessert jujubes. Macaroon powder sesame snaps liquorice topping caramels. Liquorice brownie gummi bears icing. Lollipop candy canes sugar plum lollipop chupa chups tootsie roll.&lt;/p&gt;
+&lt;p&gt;Cupcake powder bonbon. Tiramisu apple pie tootsie roll cheesecake cake. Topping ice cream bear claw candy bear claw danish apple pie soufflé lollipop. Pastry marshmallow sweet roll chocolate bar tootsie roll lemon drops gingerbread soufflé cheesecake. Danish lollipop candy cookie cake chocolate bar pie lollipop jelly. Brownie cotton candy sweet roll bonbon. Sesame snaps liquorice marzipan oat cake powder lollipop caramels. Lemon drops cake donut. Topping pastry apple pie macaroon cotton candy brownie jujubes cotton candy. Sweet roll sweet roll caramels jujubes apple pie cake powder. Cupcake lemon drops topping candy chocolate bar tiramisu. Liquorice tiramisu liquorice fruitcake sweet roll jelly donut tootsie roll. Wafer powder bonbon jelly jujubes cookie bonbon tootsie roll.&lt;/p&gt;
+&lt;p&gt;Powder chocolate cake donut fruitcake. Cotton candy toffee jelly beans cotton candy jelly lemon drops gummi bears. Muffin pastry lollipop macaroon sugar plum brownie cotton candy. Soufflé jelly-o oat cake. Candy canes sugar plum candy canes jelly powder. Cookie gummies carrot cake marzipan gummies marshmallow croissant fruitcake. Marzipan muffin muffin chupa chups candy brownie carrot cake oat cake. Soufflé oat cake cupcake jelly-o. Candy canes bear claw biscuit brownie donut toffee liquorice. Danish soufflé donut brownie oat cake bear claw muffin dessert jujubes. Macaroon powder sesame snaps liquorice topping caramels. Liquorice brownie gummi bears icing. Lollipop candy canes sugar plum lollipop chupa chups tootsie roll.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Privacy Policy]]></title><description><![CDATA[This privacy policy has been compiled to better serve those who are concerned with how their “Personally identifiable information” (PII) is…]]></description><link>https://faryna.io/privacy-policy/</link><guid isPermaLink="false">https://faryna.io/privacy-policy/</guid><pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This privacy policy has been compiled to better serve those who are concerned with how their “Personally identifiable information” (PII) is being used online. PI is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.&lt;/p&gt;
 &lt;p&gt;What personal information do we collect from the people that visit our blog, website or app?
 When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, credit card information or other details so that we can provide our services to you.&lt;/p&gt;
 &lt;h2&gt;When do we collect information?&lt;/h2&gt;
